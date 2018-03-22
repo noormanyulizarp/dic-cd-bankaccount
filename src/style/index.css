@@ -1,0 +1,206 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    height: 100%;
+    background: linear-gradient(135deg, #2095f3 0, #26c6da 100%);
+}
+
+.background-red {
+    background-color: red;
+}
+
+.background-green {
+    background-color: green;
+}
+
+.lightsteelblue {
+    background-color: lightsteelblue;
+}
+
+.user-image {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.red-blouse {
+    border-radius: 6px;
+    background-color: rgba(35, 243, 255, 0.48);
+    box-shadow: 5px 5px 20px -7px rgba(0, 0, 0, 0.54);
+}
+
+.padding-top-bottom {
+    padding-top: 2%;
+    padding-bottom: 36%;
+}
+
+.margin-left-5px {
+    margin-left: 5px;
+}
+
+.margin-left-10px {
+    margin-left: 10px;
+}
+
+.all-padding-5px {
+    padding: 5px;
+}
+
+.margin-top-5px {
+    margin-top: 5px;
+}
+
+.padding-5px {
+    padding-top: 5px;
+}
+
+.card .card-header-transparent {
+    background-color: transparent;
+    border-bottom: none;
+}
+
+.color-white {
+    color: white;
+}
+
+.card-division .card-no-radius {
+    border-radius: 2px;
+}
+
+.user-form-division .user-form-transparent {
+    background-color: transparent;
+    border: none;
+}
+
+.transaction-card-division .card-no-radius {
+    border-radius: 2px;
+    background-color: transparent;
+    border: none;
+}
+
+.card-body .table-transaction-white {
+    color: white;
+}
+
+.line-result {
+    position: relative;
+    width: 100%;
+    float: left;
+    background-color: rgba(35, 243, 255, 0.48);
+    height: 2px;
+    margin-top: 15px;
+}
+
+.underline-it {
+    text-underline: white;
+    text-underline-style: dash-long;
+}
+
+.transaction-card-division .no-padding-left-right {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.user-utility-division .user-utility-color {
+    border-radius: 2px;
+    background-color: rgba(241, 244, 255, 0.25);
+    border: none;
+    box-shadow: 0 5px 10px -6px rgba(0, 0, 0, 0.90);
+}
+
+.shadow-it {
+    box-shadow: 0 10px 9px -9px rgba(0, 0, 0, 0.70);
+}
+
+.shadowing {
+    box-shadow: -2px 10px 50px -7px rgba(0, 0, 0, 0.40);
+}
+
+.padding-top-2px {
+    padding-top: 2px;
+}
+
+.pad-left-right {
+    padding-left: 19px;
+    padding-right: 13px;
+}
+
+.button-toggles {
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.border-th-right {
+    border-right: solid 1px white;
+}
+
+.border-th-left-right {
+    border-left: solid 1px white;
+    border-right: solid 1px white;
+}
+
+.background-it {
+     padding-left: 2px;
+     padding-right: 2px;
+     background-color: rgba(255, 255, 255, 0.27);
+ }
+
+.transaction-nest .no-padding-left-right {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.form-custom{
+    border-radius: 1px;
+    border: none;
+    border-bottom: solid 1px white;
+    background-color: rgba(35, 243, 255, 0.48);
+    background-color: #fff0;
+}
+
+.form-custom:focus{
+    border-radius: 1px;
+    border: none;
+    border-bottom: solid 1px #b5b5b5;
+    background-color: rgba(35, 243, 255, 0.48);
+    background-color: #fff0;
+}
+
+.form-custom:focus {
+    border-color: #555555;
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.05) inset, 0px 0px 0px rgba(248, 255, 241, 0.5);
+}
+
+.input-append-custom{
+    background-color: transparent;
+    margin-left: 5px;
+    border:none;
+    border-bottom: solid 1px white;
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    border-radius: 1px;
+    color: white;
+}
+
+.lite-bottom-pad{
+    padding-bottom: 4px;
+}
+.form-control{
+    color: white;
+}
+
+.form-control::-moz-placeholder {
+    color: white;
+}
+
+.form-control:-ms-input-placeholder {
+    color: white;
+}
+
+.form-control::-webkit-input-placeholder {
+    color: white;
+}
+
+.width-max{
+    width: 100%;
+}
